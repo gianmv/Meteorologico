@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Estación meteorologica</string>
+    <string name="title_activity_pantalla3">Pantalla3</string>
+    <string name="none_paired">Ningun dispositivo pudo ser emparejado</string>
+    <string name="sensor1">Temperatura</string>
+    <string name="sensor2">Humedad</string>
+    <string name="sensor3">Calidad del aire</string>
+    <string name="temperature_is">La temperatura es:</string>
+    <string name="humity_is">El porcentaje de humedad es:</string>
+    <string name="CO2_is">La calidad del aire es (CO2):</string>
+    <string name="getting_values">Obteniendo mediciones...</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="16dp">
+        <Button
+            android:id="@+id/Regresar2"
+            android:layout_width="112dp"
+            android:layout_height="59dp"
+            android:text="Regresar"
+            tools:layout_editor_absoluteX="283dp"
+            tools:layout_editor_absoluteY="528dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="La distancia es:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
