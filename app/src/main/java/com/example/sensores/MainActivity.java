@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
         textView10=findViewById(R.id.textView10);
         textView9=findViewById(R.id.textView9);
         pantalla=findViewById(R.id.pantalla);
+        //
 
         bluetoothIn = new Handler() {
             public void handleMessage(android.os.Message msg) {
